@@ -1,11 +1,45 @@
-last-coin-dashboard/
-│
-├─ index.html          → Signup Form page (embed Tally signup link)
-├─ dashboard.html      → Dashboard page (embed Tally dashboard link)
-├─ css/
-│   └─ style.css       → Custom styling (black / attractive theme)
-├─ js/
-│   └─ main.js         → Any custom JS (optional, like button effects)
-├─ images/
-│   └─ logo.png        → Your logo / assets
-└─ README.md           → Project description
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Last Coin – Dashboard</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>User Dashboard</h1>
+
+    <!-- Connect Wallet -->
+    <a href="https://tally.so/r/someDashboardFormLink" target="_blank">
+      <button>Connect Wallet</button>
+    </a>
+
+    <!-- Follow Twitter -->
+    <a href="https://tally.so/r/someDashboardFormLink" target="_blank">
+      <button>Follow Twitter (Earn 15 Points)</button>
+    </a>
+
+    <!-- Connect Twitter -->
+    <a href="https://tally.so/r/someDashboardFormLink" target="_blank">
+      <button>Connect Twitter</button>
+    </a>
+
+    <!-- Connect Discord -->
+    <a href="https://tally.so/r/someDashboardFormLink" target="_blank">
+      <button>Connect Discord (Earn 10 Points)</button>
+    </a>
+
+    <!-- Daily Check-In -->
+    <a href="https://tally.so/r/someDashboardFormLink" target="_blank">
+      <button>Daily Check-In (Earn 1 Point)</button>
+    </a>
+
+    <!-- Referral -->
+    <p>Your Referral Code: ABC123</p>
+    <a href="https://yourwebsite.org/?ref=ABC123" target="_blank">
+      <button>Copy My Referral Link</button>
+    </a>
+
+  </div>
+</body>
+</html>
