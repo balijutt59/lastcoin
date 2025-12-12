@@ -1,0 +1,11 @@
+last-coin-dashboard/
+│
+├─ index.html          → Signup Form page (embed Tally signup link)
+├─ dashboard.html      → Dashboard page (embed Tally dashboard link)
+├─ css/
+│   └─ style.css       → Custom styling (black / attractive theme)
+├─ js/
+│   └─ main.js         → Any custom JS (optional, like button effects)
+├─ images/
+│   └─ logo.png        → Your logo / assets
+└─ README.md           → Project description
