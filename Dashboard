@@ -36,7 +36,7 @@
 
     <!-- Referral -->
     <p>Your Referral Code: ABC123</p>
-    <a href="https://tally.so/r/aQ9o8E" target="_blank">
+    <a href="https://yourwebsite.org/?ref=ABC123" target="_blank">
       <button>Copy My Referral Link</button>
     </a>
 
